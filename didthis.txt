@@ -1,0 +1,12 @@
+     npm install -g truffle
+  312  npm install -g mocha
+  313  mocha
+  
+477  truffle init
+
+  truffle compile
+  truffle deploy
+  truffle migrate
+  truffle compile
+  truffle develop
+  
